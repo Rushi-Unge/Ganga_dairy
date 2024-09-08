@@ -16,7 +16,7 @@ body {
 
 /* Header */
 header {
-  background: rgb(89, 222, 89);
+  background:rgb(61 117 61);
   color: black;
   padding: 15px 0;
 }
@@ -102,14 +102,14 @@ header nav ul li a:hover {
   transition: background 0.3s ease, transform 0.3s ease;
 }
 .cta-button:hover {
-  background: #61581fd9;
+  background: #686029d9;
   transform: scale(1.05);
 }
 
 /* About Us Section */
 .about {
   padding: 60px 20px;
-  background: #98fb98;
+  background: #ffffff;
 }
 .about .container {
   max-width: 900px;

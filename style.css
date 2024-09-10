@@ -1,13 +1,10 @@
 /* styles.css */
-
-/* Basic Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body */
 body {
   font-family: "Arial", sans-serif;
   line-height: 1.6;
@@ -141,7 +138,7 @@ header nav ul li a:hover {
 
 .about h3 {
   font-size: 1.8rem;
-  color: #388E3C; /* Darker green for subheadings */
+  color: #1f221f; 
   margin-top: 20px;
   margin-bottom: 10px;
 }
